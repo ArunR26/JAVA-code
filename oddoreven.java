@@ -9,7 +9,7 @@ public class oddoreven {
 	        int number = scanner.nextInt();
 	      
 	        if (number % 2 == 0) {
-	            System.out.println(number + " is even number5.");
+	            System.out.println(number + " is even number.");
 	        } else {
 	            System.out.println(number + " is odd number.");
 	        }
